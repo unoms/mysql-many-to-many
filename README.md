@@ -10,3 +10,4 @@ That is a routine procedure to insert values into the student_assign_subject tab
 * If there's no student in the student table corresponding to the given StudentName, the routine stops its action and signals SQLSTATE '45001'. 
 * If there's no subject corresponding to the given SubjectName, the routine stops its action and signals SQLSTATE '45002'
 
+**Note**: Please, remove the comments from the sql file to import correctly a demo database. 
